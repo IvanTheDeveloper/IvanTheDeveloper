@@ -1,6 +1,6 @@
 ![Header](./github-header-image.png)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,+my+name+is+Ivan;Im+a+junior+software+developer;Welcome+to+my+github+profile+:))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,+my+name+is+Ivan;Im+a+junior+software+developer;Welcome+to+my+github+profile+:D)](https://git.io/typing-svg)
 
 ## Programming Languages
 
