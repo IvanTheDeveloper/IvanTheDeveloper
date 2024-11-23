@@ -1,5 +1,7 @@
 ![Header](./github-header-image.png)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,+my+name+is+Ivan;Welcome+to+my+github+profile)](https://git.io/typing-svg)
+
 ## Programming Languages
 
 <p>
