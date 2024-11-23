@@ -40,20 +40,17 @@
   <img alt="Discord" src="https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white"></a>
 </p>
 
-## Connect with Me
+------
 
-<p align="center">
-   <a href="#"><img alt="Linkedin"  title="My Linkedin" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"></a>
-</p>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IvanTheDeveloper/IvanTheDeveloper/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IvanTheDeveloper/IvanTheDeveloper/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/IvanTheDeveloper/IvanTheDeveloper/output/github-snake.svg" />
+  </picture>
+</div>
 
 ------
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IvanTheDeveloper/IvanTheDeveloper/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IvanTheDeveloper/IvanTheDeveloper/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/IvanTheDeveloper/IvanTheDeveloper/output/github-snake.svg" />
-</picture>
-
-------
 [IvanTheDeveloper](https://github.com/IvanTheDeveloper)
 last edited 23-11-2024
