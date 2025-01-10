@@ -65,9 +65,10 @@
 <details>
     <summary>Github Stats</summary>
     <br/>
-    <div align="center" style="display: flex; justify-content: center; gap: 20px;">
-        <img src="https://github-readme-stats.vercel.app/api?username=IvanTheDeveloper&show_icons=true&rank_icon=percentile&theme=shades-of-purple" alt="GitHub stats" style="height: 190px;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanTheDeveloper&layout=compact&theme=dracula&title_color=ffffff&text_color=ffffff" alt="Top Langs" style="height: 190px;">
+    <div align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=IvanTheDeveloper&show_icons=true&rank_icon=percentile&theme=shades-of-purple" alt="GitHub stats" style="height: 190px; display: inline-block;">
+        &nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanTheDeveloper&layout=compact&theme=dracula&title_color=ffffff&text_color=ffffff" alt="Top Langs" style="height: 190px; display: inline-block;">
     </div>
 </details>
 
