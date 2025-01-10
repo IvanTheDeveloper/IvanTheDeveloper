@@ -2,9 +2,11 @@
 
 ![Header](./github-header-image.png)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,+my+name+is+Ivan;Im+a+junior+software+developer;Welcome+to+my+github+profile+:D)](https://git.io/typing-svg)
-
-
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=IvanTheDeveloper&style=flat-square&color=blueviolet" alt="Views counter">
+    <br/>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hello,+my+name+is+Ivan;Im+a+junior+software+developer;Welcome+to+my+github+profile+:D&color=ffff00&center=true&vCenter=true" alt="Typing SVG">
+</div>
 
 ## Programming and Markup Languages
 [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
@@ -47,10 +49,13 @@
 ------
 
 <details open>
-<summary>Currently working on:</summary>
-<br/>
-    
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IvanTheDeveloper&repo=ForgottenTyrants&show_owner=true&description_lines_count=10&theme=github_dark)](https://github.com/Abyss-Forge/ForgottenTyrants)
+    <summary>Currently working on:</summary>
+    <br/>
+    <div>
+        <a href="https://github.com/Abyss-Forge/ForgottenTyrants">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanTheDeveloper&repo=ForgottenTyrants&show_owner=true&theme=github_dark" alt="GitHub stats">
+        </a>
+    </div>
 
 ------
 </details>
@@ -76,5 +81,4 @@
 
 ------
 
-[IvanTheDeveloper](https://github.com/IvanTheDeveloper)
-last edited 10-1-2025
+<div align="right"><a href="https://github.com/IvanTheDeveloper">IvanTheDeveloper</a> last edited 10-1-2025</div>
