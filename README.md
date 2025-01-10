@@ -1,48 +1,69 @@
+<!-- README.md -->
+
 ![Header](./github-header-image.png)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,+my+name+is+Ivan;Im+a+junior+software+developer;Welcome+to+my+github+profile+:D)](https://git.io/typing-svg)
 
-## Programming Languages
 
-<p>
-    <img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white"></a>
-    <img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white"></a>
-    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white"></a>
-    <img alt="HTML" src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white"></a>
-    <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white"></a>
-    <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white"></a>
-</p>
+
+## Programming and Markup Languages
+[![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
+[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
+[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=fff)](#)
+[![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#)
+[![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)](#)
+[![XML](https://img.shields.io/badge/XML-767C52?logo=xml&logoColor=fff)](#)
+[![JSON](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff)](#)
+
+
 
 ## Frameworks and Libraries
-<p>
-    <img alt="Angular" src="https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white"></a>
-    <img alt="Laravel" src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white"></a>
-    <img alt="Unity" src="https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white"></a>
-</p>
+[![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=fff)](#)
+[![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=fff)](#)
+[![Unity](https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=fff)](#)
 
-## Databases and Cloud hosting
-<p>
-    <img alt="Google Firebase" src="https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white"></a>
-    <img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white"></a>
-    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white"></a>
-</p>
+
+
+## Databases and Cloud Hosting
+[![Firebase](https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=fff)](#)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
+[![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=fff)](#)
+
+
 
 ## Software and Tools
-<p>
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white"></a>
-  <img alt="SourceTree" src="https://img.shields.io/badge/Sourcetree-0052CC?logo=sourcetree&logoColor=white"></a>
-  
-  <img alt="Visual Studio Code" src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white"></a>
-  <img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-FE7A16.svg?logo=Eclipse&logoColor=white"></a>
-  <img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-3DDC84?logo=android&logoColor=white"></a>
+[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
+[![SourceTree](https://img.shields.io/badge/Sourcetree-0052CC?logo=sourcetree&logoColor=fff)](#)
 
-  <img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white"></a>
-  <img alt="Discord" src="https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white"></a>
-</p>
+[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=fff)](#)
+[![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?logo=Eclipse&logoColor=fff)](#)
+[![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?logo=android&logoColor=fff)](#)
+
+[![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff)](#)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=fff)](#)
 
 ------
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanTheDeveloper&layout=compact&theme=dracula&title_color=ffffff&text_color=ffffff) -->
+<details open>
+<summary>Currently working on:</summary>
+<br/>
+    
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IvanTheDeveloper&repo=ForgottenTyrants&show_owner=true&description_lines_count=10&theme=github_dark)](https://github.com/Abyss-Forge/ForgottenTyrants)
+
+------
+</details>
+
+
+
+<details>
+    <summary>Github Stats</summary>
+    <br/>
+    <div align="center" style="display: flex; align-items: stretch; justify-content: center; ">
+        <img src="https://github-readme-stats.vercel.app/api?username=IvanTheDeveloper&show_icons=true&rank_icon=percentile&theme=shades-of-purple" alt="GitHub stats" style="width: auto; height: 200px;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanTheDeveloper&layout=compact&theme=dracula&title_color=ffffff&text_color=ffffff" alt="Top Langs" style="width: auto; height: 200px;">
+    </div>
+</details>
 
 <div align="center">
   <picture>
@@ -56,9 +77,3 @@
 
 [IvanTheDeveloper](https://github.com/IvanTheDeveloper)
 last edited 10-1-2024
-
-<!--
-<br/>
-### Pinned / More repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IvanTheDeveloper&repo=ForgottenTyrants&show_owner=true&description_lines_count=10&theme=github_dark)](https://github.com/Abyss-Forge/ForgottenTyrants)
--->
