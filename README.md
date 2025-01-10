@@ -42,6 +42,8 @@
 
 ------
 
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanTheDeveloper&layout=compact&theme=dracula&title_color=ffffff&text_color=ffffff) -->
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IvanTheDeveloper/IvanTheDeveloper/output/github-contribution-grid-snake-dark.svg" />
@@ -53,4 +55,10 @@
 ------
 
 [IvanTheDeveloper](https://github.com/IvanTheDeveloper)
-last edited 23-11-2024
+last edited 10-1-2024
+
+<!--
+<br/>
+### Pinned / More repositories
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IvanTheDeveloper&repo=ForgottenTyrants&show_owner=true&description_lines_count=10&theme=github_dark)](https://github.com/Abyss-Forge/ForgottenTyrants)
+-->
