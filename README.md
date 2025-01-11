@@ -21,7 +21,7 @@
 
 
 
-## Frameworks / Libraries
+## Frameworks / Libraries / Engines
 [![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=fff)](#)
 [![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=fff)](#)
 [![Unity](https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=fff)](#)
@@ -44,6 +44,7 @@
 [![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?logo=android&logoColor=fff)](#)
 
 [![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff)](#)
+[![Confluence](https://img.shields.io/badge/Confluence-172B4D?logo=confluence&logoColor=fff)](#)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=fff)](#)
 
 ------
@@ -82,4 +83,4 @@
 
 ------
 
-<div align="right"><a href="https://github.com/IvanTheDeveloper">IvanTheDeveloper</a> last edited 10-1-2025</div>
+<div align="right"><a href="https://github.com/IvanTheDeveloper">IvanTheDeveloper</a> last edited 11-1-2025</div>
