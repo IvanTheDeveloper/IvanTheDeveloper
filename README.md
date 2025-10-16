@@ -53,7 +53,7 @@
     <summary>Currently working on:</summary>
     <br/>
     <div>
-        <a href="https://github.com/Abyss-Forge/BetterDiscord-Portable">
+        <a href="https://github.com/IvanTheDeveloper/BetterDiscord-Portable">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanTheDeveloper&repo=BetterDiscord-Portable&show_owner=true&theme=github_dark" alt="GitHub stats">
         </a>
     </div>
