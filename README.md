@@ -18,6 +18,7 @@
 [![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#)
 [![XML](https://img.shields.io/badge/XML-767C52?logo=xml&logoColor=fff)](#)
 [![JSON](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff)](#)
+[![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)](#)
 
 
 
@@ -40,7 +41,7 @@
 [![SourceTree](https://img.shields.io/badge/Sourcetree-0052CC?logo=sourcetree&logoColor=fff)](#)
 
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
-
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)](#)
 
 
 ## IDEs / Collaboration Tools
