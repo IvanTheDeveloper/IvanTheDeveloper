@@ -9,16 +9,17 @@
 </div>
 
 ## Programming and Markup Languages
-[![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
-[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
+[![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=fff)](#)
+[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=fff)](#)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
-[![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)](#)
+[![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=fff)](#)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=fff)](#)
 [![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#)
 [![XML](https://img.shields.io/badge/XML-767C52?logo=xml&logoColor=fff)](#)
 [![JSON](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff)](#)
-[![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)](#)
+[![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=fff)](#)
 
 
 
@@ -41,7 +42,7 @@
 [![SourceTree](https://img.shields.io/badge/Sourcetree-0052CC?logo=sourcetree&logoColor=fff)](#)
 
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
-[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)](#)
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=fff)](#)
 
 
 ## IDEs / Collaboration Tools
@@ -89,4 +90,4 @@
 
 ------
 
-<div align="right"><a href="https://github.com/IvanTheDeveloper">IvanTheDeveloper</a> last edited 10-2025</div>
+<div align="right"><a href="https://github.com/IvanTheDeveloper">IvanTheDeveloper</a> last edited 01-2026</div>
