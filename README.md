@@ -56,7 +56,7 @@
 
 ------
 
-<details open>
+<!--    <details open>
     <summary>Currently working on:</summary>
     <br/>
     <div>
@@ -66,7 +66,7 @@
     </div>
 
 ------
-</details>
+</details>    -->
 
 
 
@@ -90,4 +90,4 @@
 
 ------
 
-<div align="right"><a href="https://github.com/IvanTheDeveloper">IvanTheDeveloper</a> last edited 01-2026</div>
+<div align="right"><a href="https://github.com/IvanTheDeveloper">IvanTheDeveloper</a> last edited 05-2026</div>
